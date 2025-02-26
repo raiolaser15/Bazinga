@@ -1,0 +1,177 @@
+header {
+  background-color: #9dd3ff;
+}
+
+.logo {
+  height: 70px;
+  margin: 5px;
+}
+
+#tituloPricipal {
+  font-size: 40px;
+  font-family: 'Times New Roman';
+  display: inline;
+  position: relative;
+  top: -20px;
+  margin: 0 25px;
+}
+
+.perfil {
+  height: 70px;
+  margin: 5px;
+  border-radius: 70px;
+  position: relative;
+  left: 910px;
+}
+
+/*nav*/
+
+.navegacaoCategotias {
+  background-color: #b2ddff;
+  width: 170px;
+  height: 540px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+button {
+  background-color: #ffb800;
+  border: none;
+  border-radius: 30px;
+  padding: 0px;
+  margin: 6px;
+  height: 45px;
+}
+
+/*main*/
+
+main {
+  background-color: white;
+  width: 1100px;
+  height: 520px;
+}
+
+.produto {
+  background-color: #9dd3ff;
+  border: none;
+  border-radius: 0px;
+  padding: 0px;
+  margin: 6px;
+  height: 40px;
+  width: 610px;
+  font-size: 25px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 170px;
+  bottom: 600px;
+}
+
+.usuario {
+  background-color: #9dd3ff;
+  border: none;
+  border-radius: 0px;
+  padding: 0px;
+  margin: 6px;
+  height: 40px;
+  width: 610px;
+  font-size: 25px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 790px;
+  bottom: 668px;
+}
+
+#txtBusca {
+  background-color: #daefff;
+  border-radius: 5px;
+  border: none;
+  width: 1160px;
+  height: 40px;
+  position: relative;
+  left: 210px;
+  bottom: 480px;
+}
+
+.tituloPrincipal {
+  position: relative;
+  left: 210px;
+  bottom: 480px;
+}
+
+.tituloOutro {
+  position: relative;
+  left: 210px;
+  bottom: 480px;
+}
+
+.livro {
+  position: relative;
+  left: 270px;
+  bottom: 600px;
+  width: 210px;
+  display: inline-block;
+}
+
+/*footer*/
+
+footer {
+  background-color: #9dd3ff;
+  height: 130px;
+}
+
+.voltar {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  position: absolute;
+  left: 600px;
+}
+
+.contato {
+  display: inline;
+  position: relative;
+  top: 60px;
+  left: 585px;
+}
+
+.telefoneimg {
+  position: relative;
+  top: 95px;
+  left: 300px;
+}
+
+.telefoneContato {
+  display: inline;
+  position: relative;
+  top: 90px;
+  left: 300px;
+}
+
+.emailimg {
+  position: relative;
+  top: 95px;
+  left: 400px;
+}
+
+.emailContato {
+  display: inline;
+  position: relative;
+  top: 90px;
+  left: 400px;
+}
+
+.horaAtendimento {
+  font-size: 17px;
+  display: inline;
+  position: relative;
+  bottom: 10px;
+  left: 1130px;
+}
