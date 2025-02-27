@@ -5,28 +5,25 @@ header {
 }
 
 .logo {
-    height: 100px;
-    margin: 5px;
-    border-radius: 70px;
+  height: 70px;
+  margin: 5px;
 }
 
 #tituloPricipal {
-    font-size: 60px;
-    font-family: 'Times New Roman';
-    display: inline;
-    position: relative;
-    bottom: 35px;
-    left: 150px;
-    margin: 0 230px;
+  font-size: 40px;
+  font-family: 'Times New Roman';
+  display: inline;
+  position: relative;
+  top: -20px;
+  margin: 0 25px;
 }
 
 .perfil {
-    height: 70px;
-    margin: 5px;
-    border-radius: 70px;
-    position: relative;
-    bottom: 25px;
-    left: 230px;
+  height: 70px;
+  margin: 5px;
+  border-radius: 70px;
+  position: relative;
+  left: 910px;
 }
 
 /*nav*/
