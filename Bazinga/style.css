@@ -104,6 +104,12 @@ footer {
     left: 585px;
 }
 
+.telefoneimg {
+  position: relative;
+  top: 95px;
+  left: 300px;
+}
+
 .telefoneContato {
     display: inline;
     position: relative;
@@ -111,17 +117,15 @@ footer {
     left: 330px;
 }
 
+.emailimg {
+  position: relative;
+  top: 95px;
+  left: 400px;
+}
+
 .emailContato {
     display: inline;
     position: relative;
     top: 90px;
     left: 400px;
-}
-
-.horaAtendimento {
-    font-size: 17px;
-    display: inline;
-    position: relative;
-    bottom: 10px;
-    left: 1130px;
 }
